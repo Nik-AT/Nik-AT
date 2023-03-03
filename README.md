@@ -1,4 +1,4 @@
-### Hi there  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
+### Hi there, my name is Nikolay  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> 
 - 🌱 I’m currently learning JAVA </br>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -12,6 +12,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
